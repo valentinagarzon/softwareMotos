@@ -1,0 +1,40 @@
+body{
+background-image: url("http://localhost/software_motos/img/motosFondo.jpeg");
+background-size: cover;
+background-position: fixed;
+}
+
+.H1Bienvenidos{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.BtnLogin{
+    height: 70px;
+    width: auto;
+    border-radius: 3px;
+    border: 1px solid black;
+    margin-top: 10%;
+    font-size: 30px;
+    background-color: RGBA(255, 255, 255, 0.7);
+    box-shadow: -2px 7px 10px -1px #ffffff;
+}
+.FormularioD{
+    float: left;
+    width: 50%;
+}
+.Botones{
+    float: left;
+    width: 100%;
+}
+.btns{
+    width: 50%;
+    float: left;
+
+}
+.Campos{
+    width: 50%;
+}
